@@ -69,7 +69,6 @@ I would rank users based on how quickly they finished the game and how high thei
 ## Interview Recording URL Link
 
 [My 5-minute Interview Recording](your-link-here)
-https://minnstate.zoom.us/rec/share/ddUPACB3w-xrpXG_c1lzm8c-0mkp1cXX9mX7Qya__i5saZTDK-VSyu2cy1FyNIo.QKnYM6eSIai948tX?startTime=1650666986000
 
 
 ## License
